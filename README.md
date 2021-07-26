@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Evan-Fekete
-- 👀 I’m interested in ... Programming, Working with Computers, Movies, Video Games, and Kayaking
+- 👀 I’m interested in ... Programming, Working with Computers, Movies, Video Games, Biking, and Kayaking
 - 🌱 I’m currently learning ... Undeclared (Leaning towards Computer, Mechanical, or Electrical) Engineering at Ryerson University, I just graduated from High School and am going
 into first-year
 - 💞️ I’m looking to collaborate on ... Any kind of project I want to build my portfolio, and learn more about programming. I would still say I'm a novice but do my best to have an
